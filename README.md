@@ -1,2 +1,27 @@
-# House-Price-Prediction-Linear-Regression
-House Price Prediction using Linear Regression on the California Housing Dataset with EDA, visualization, model evaluation, and performance analysis using Scikit-Learn.
+# House Price Prediction using Linear Regression
+
+## Objective
+Predict house prices using the California Housing Dataset.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+
+## Evaluation Metrics
+- MAE
+- RMSE
+- R² Score
+
+## Files
+- task1_ml_linear_regression.ipynb
+- house_price_prediction.py
+- report.pdf
+- california_housing_model.pkl
+
+## Author
+Aman Raj
+MIT Art, Design and Technology University
